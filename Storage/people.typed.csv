@@ -1,0 +1,5 @@
+PartitionKey,RowKey,Timestamp,Age,Age@type,City,City@type
+Doe,Jane,2016-12-18T16:58:47.037Z,54,Edm.Int32,,
+Doe,John,2016-12-18T16:59:18.998Z,43,Edm.Int32,,
+Gates,William,2016-12-18T16:59:58.204Z,,,"Seattle, WA",Edm.String
+Pietschmann,Chris,2016-12-18T16:58:00.764Z,,,,
