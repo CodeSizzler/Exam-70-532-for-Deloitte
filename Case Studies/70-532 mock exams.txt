@@ -1,0 +1,33 @@
+-> Azure Storage & SQL
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1mjywnqncwx
+
+
+-> Azure VM - Part 1
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1mzeymwp9ok
+
+
+-> Azure VM - Part 2
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1nda0na9m0h
+
+
+-> Azure Active Directory
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1nduynavbuu
+
+
+-> VNet
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1ndkznafcl1
+
+
+-> Cloud Service
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1ntaxmwihtd
+
+
+-> Service Bus & Backup
+
+https://www.proprofs.com/quiz-school/story.php?title=mtg1nta2oqgusv
